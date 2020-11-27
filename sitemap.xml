@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2020/11/27/great-wall-hiking-day2/</loc>
+    
+    <lastmod>2020-11-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2020/11/27/great-wall-hiking-day3/</loc>
     
     <lastmod>2020-11-27</lastmod>
@@ -9,7 +16,21 @@
   </url>
   
   <url>
-    <loc>http://example.com/2020/11/27/great-wall-hiking-day2/</loc>
+    <loc>http://example.com/2020/11/27/great-wall-hiking-day7/</loc>
+    
+    <lastmod>2020-11-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/27/great-wall-hiking-day6/</loc>
+    
+    <lastmod>2020-11-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/27/great-wall-hiking-day5/</loc>
     
     <lastmod>2020-11-27</lastmod>
     
