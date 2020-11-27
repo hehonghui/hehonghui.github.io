@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://mrsimple.fun/2020/11/27/hello-world/</loc>
+    <loc>http://mrsimple.fun/categories.html</loc>
     
     <lastmod>2020-11-27</lastmod>
     
   </url>
   
   <url>
-    <loc>http://mrsimple.fun/2020/11/27/great-wall-hiking/</loc>
+    <loc>http://mrsimple.fun/categories/index.html</loc>
+    
+    <lastmod>2020-11-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://mrsimple.fun/2020/11/27/hello-world/</loc>
     
     <lastmod>2020-11-27</lastmod>
     
@@ -23,7 +30,7 @@
   </url>
   
   <url>
-    <loc>http://mrsimple.fun/2020/11/27/great-wall-hiking-day3/</loc>
+    <loc>http://mrsimple.fun/2020/11/27/great-wall-hiking-day2/</loc>
     
     <lastmod>2020-11-27</lastmod>
     
@@ -37,7 +44,21 @@
   </url>
   
   <url>
-    <loc>http://mrsimple.fun/2020/11/27/great-wall-hiking-day2/</loc>
+    <loc>http://mrsimple.fun/contact.html</loc>
+    
+    <lastmod>2020-11-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://mrsimple.fun/2020/11/27/great-wall-hiking/</loc>
+    
+    <lastmod>2020-11-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://mrsimple.fun/2020/11/27/great-wall-hiking-day3/</loc>
     
     <lastmod>2020-11-27</lastmod>
     
